@@ -1,1 +1,1 @@
-# workshop3
+# GoPay workshop3
